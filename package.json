@@ -1,0 +1,11 @@
+{
+  "name": "playwright-qa-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node search-qa.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
